@@ -1,7 +1,7 @@
 import React from "react";
 import Banner from "../../components/banner/Banner";
 import Footer from "../../components/footer/Footer";
-import Gallery from "../../components/gallery/Gallery";
+import Gallery from "../../components/Cards_Grid/Cards_grid";
 import Header from "../../components/header/Header";
 import imgHomeBanner from "../../assets/images/banner/homeBanner.png";
 

@@ -7,7 +7,7 @@ import Footer from "../../components/footer/Footer";
 import data from "../../datas/logement.json";
 
 // composants de présentation
-import Carrousel from "../../components/ficheLogement/Carrousel";
+import Carrousel from "../../components/ficheLogement/Gallery";
 import Host from "../../components/ficheLogement/Host";
 import Rate from "../../components/ficheLogement/Rate";
 import Tag from "../../components/ficheLogement/Tag";
