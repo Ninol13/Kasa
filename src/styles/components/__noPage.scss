@@ -3,6 +3,7 @@
   @extend %flex-column;
   margin: 22px 22px;
   &__Number {
+    font-family: 'Montserrat', sans-serif;
     @include flex-center;
 
     @include font(96px, 700);
@@ -14,6 +15,7 @@
     }
   }
   &__Text {
+    font-family: 'Montserrat', sans-serif;
     @extend %flex-end;
     text-align: center;
     @include font(18px, 500);
@@ -25,8 +27,9 @@
     }
   }
   &__Link {
+    font-family: 'Montserrat', sans-serif;
     @extend %flex-end;
-    color: $primary-color;
+    color: black;
     @include font(14px, 500);
     margin: 3rem 0 2rem 0;
 
