@@ -17,6 +17,7 @@
       @include flex-column;
       margin-bottom: 15px;
       .titre-logement {
+        color: #ff6060;
         @include font(18px, 500);
       }
       .endroit-logement {
@@ -65,6 +66,7 @@
     &__nom-prop {
       @extend %flex-rowCenter;
       .nom-proprietaire {
+        color: #ff6060;
         @include font(18px, 500);
         margin-right: 10px;
         text-align: right;
